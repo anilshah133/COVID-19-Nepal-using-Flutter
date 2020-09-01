@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574557905692",
+    "firebase_url": "https://covid-19-nepal-update.firebaseio.com",
+    "project_id": "covid-19-nepal-update",
+    "storage_bucket": "covid-19-nepal-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574557905692:android:5110aa55b53294e17d90d9",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574557905692-vrjckhl132g115iqraffrfnp1cthdir9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapp",
+            "certificate_hash": "5b3fb535c48cb34bfceda8884d4e3674e960d898"
+          }
+        },
+        {
+          "client_id": "574557905692-vcungj2sf0b1478s8o64384ocr91uu47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Dy4mpMvLDm4BwjckKnG_JwCI7osrP-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574557905692-vcungj2sf0b1478s8o64384ocr91uu47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
